@@ -33,3 +33,4 @@ public abstract class Hero implements HavingSuperAbility {
         this.superAbilityType = superAbilityType;
     }
 }
+
