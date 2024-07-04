@@ -21,7 +21,9 @@ public class Father extends Grandfather {
     }
 
     public void displayInfo(String prefix) {
-        System.out.println(prefix + "Age: " + getAge() + ", Name: " + getName());
+        System.out.println(prefix + "Age: " +
+                getAge() +
+                ", Name: " + getName());
     }
 
 
